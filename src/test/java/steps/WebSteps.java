@@ -1,4 +1,4 @@
-package tests;
+package steps;
 
 import io.qameta.allure.Step;
 import pages.GitIssuePage;
